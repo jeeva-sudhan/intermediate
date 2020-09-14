@@ -1,0 +1,140 @@
+.image{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.navbar-nav{
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+.navbar-nav li a{
+    color: black;
+}
+
+.navbar-nav li a:hover{
+    color: red;
+}
+
+.login:hover{
+    background-color: white;
+    color: red;
+    border-color: red;
+}
+
+.person{
+    color: grey;
+    width: 70%;
+}
+
+.soil{
+    border: 1px solid black;
+}
+
+.private:hover{
+    color: blue;
+    background-color: white;
+}
+
+
+.money{
+    margin-left: 470px;
+    width: 30%;
+}
+
+
+.role a{
+    color: black;
+}
+
+.role a:hover{
+    color: red;
+}
+
+.troll:focus{
+    border-bottom: 5px solid red;
+}
+
+
+.smart{
+    width: 35%;
+    margin-left: 450px;
+}
+
+.card{
+    width: 80%;
+}
+
+
+.partial:hover{
+    color: blue;
+    background-color: white;
+}
+
+
+.move{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+
+
+.circle{
+    color: black;
+    margin-left: 500px;
+}
+
+.circle:hover{
+    color: red;
+    transition: none;
+}
+
+.semicircle{
+    margin-left: 330px;
+}
+
+
+.section-three{
+    background-color: blue;
+    color: white;
+}
+
+.bold{
+    color: grey;
+}
+
+.brave{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.strong{
+    color: white;
+}
+
+.strong:hover{
+    color: red;
+    background-color: white;
+}
+
+.band{
+    margin-left: 80px;
+    width: 200px;
+    height: 30px;
+}
+
+.built{
+    color: white;
+}
+
+.built:hover{
+    color:red;
+}
+
+.margin{
+    margin-left: 500px;
+}
+
+.margin:hover{
+    color: red;
+}
